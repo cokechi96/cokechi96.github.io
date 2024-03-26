@@ -4,9 +4,6 @@ about:
   template: trestles
   image: profile.jpg
   links:
-    - icon: Gmail
-      text: Gmail
-      href: cokechi96@gmail.com
     - icon: github
       text: Github
       href: https://github.com/cokechi96
