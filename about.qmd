@@ -7,7 +7,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com/cokechi96
-
 ---
 
 My research interests, though broad, can be distilled into the below topics (in no particular order):
