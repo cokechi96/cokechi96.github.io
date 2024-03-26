@@ -6,7 +6,7 @@ about:
   links:
     - icon: Gmail
       text: Gmail
-      href: re:cokechi96@gmail.com
+      href: cokechi96@gmail.com
     - icon: github
       text: Github
       href: https://github.com/cokechi96
