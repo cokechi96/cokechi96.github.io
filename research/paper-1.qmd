@@ -1,11 +1,15 @@
 ---
-title: "My First Paper"
+title: "Do RTAs Kill the Trade-Creation Effects of Migration? An analysis of the European Economic Area (EEA) Agreement "
 author: 
-  - Simone
-  - Matthew DeHaven
-date: "January 01, 2024"
+  - Chidubem Okechi
 ---
 
-A description of my paper.
+This paper examines this distortion in the case of the European Economic Area (EEA) agreement which came into force in 1994. Using data on bilateral export, immigration and emigration for ten of the pioneering countries between 1980 and 2006, I find that although immigration does have an export-creation effect, the EEA agreement makes immigration export-hindering. This agreement does not, however, seem to have any impact on the export-creation effect of emigration.
 
-Could include a photo, or links, or anything at all!
+<html>
+<body>
+    <object data="Okechi_Chidubem_IntlTrade_Final_Paper_v2.pdf" type="application/pdf">
+        <div>No online PDF viewer installed</div>
+    </object>
+</body>
+</html>

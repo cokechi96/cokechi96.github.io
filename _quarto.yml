@@ -10,8 +10,7 @@ website:
         text: About
       - href: research/index.qmd
         text: Research
-      - href: cv.pdf
-        text: CV
+
 
 format:
   html:
