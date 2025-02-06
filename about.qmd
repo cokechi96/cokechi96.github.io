@@ -9,10 +9,10 @@ about:
       href: https://github.com/cokechi96
 ---
 
-My research interests, though broad, can be distilled into the below topics (in no particular order):
+### Interests
 <ul>
-  <li>Markups</li>
-  <li>Trust in Central Banks</li>
+  <li>Exchange rates</li>
+  <li>Trust in central banks</li>
   <li>Irrational liquidity-seeking behavior in financial markets</li>
 </ul>
 For any inquiries, please feel free to reach me at <a href="cokechi96@gmail.com">cokechi96@gmail.com</a>.
